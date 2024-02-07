@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All</name>
+   <tag></tag>
+   <elementGuidId>9d865c27-937d-4f6a-b738-54c9298cab4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-search-dropdown-card']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.nav-search-facade</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>edab28c0-d2fa-4978-93e5-c6fdbd5229d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-search-facade</value>
+      <webElementGuid>1acd99c3-1d6a-4fcf-ac74-a3614b4fb7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>search-alias=aps</value>
+      <webElementGuid>eeff317c-84e7-4170-9b9a-2a215d1de780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      All
+      
+    </value>
+      <webElementGuid>9dc22453-dfe0-4c58-8f0e-ffbfe281f4e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-search-dropdown-card&quot;)/div[@class=&quot;nav-search-scope nav-sprite&quot;]/div[@class=&quot;nav-search-facade&quot;]</value>
+      <webElementGuid>9955e987-1f4b-4e3e-bd3a-93b8146e3eeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-search-dropdown-card']/div/div</value>
+      <webElementGuid>fa6148ec-b385-4d26-ab2c-fb966987ef29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div</value>
+      <webElementGuid>e39293fe-4161-4c21-8a8b-0209f603ffed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+      All
+      
+    ' or . = '
+      All
+      
+    ')]</value>
+      <webElementGuid>9905ef15-ab7c-449f-afac-3262101644e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
